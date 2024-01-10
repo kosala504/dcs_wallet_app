@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929299737377",
+    "project_id": "dcs-wallet",
+    "storage_bucket": "dcs-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929299737377:android:e7a1eb3f5d2d8fc14fec60",
+        "android_client_info": {
+          "package_name": "com.example.dcs_wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtaG5hwkStMDAmILvQlAO2EDIUMZ4jOOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
